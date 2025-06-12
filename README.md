@@ -1,1 +1,2 @@
 # TransferLearning-ImageClassifier
+This is a code to train an image classifier using transfer learning. We have also implemented object detection using sliding windows and on the other side we plot the saliency mapping of the network.
